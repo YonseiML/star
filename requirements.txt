@@ -1,0 +1,6 @@
+scipy
+tensorboard
+kornia==0.4.1
+scikit-learn
+packaging
+pandas
